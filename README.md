@@ -12,4 +12,4 @@ About me:
 <h1>
 🌐 Sociais:
 </h1>
-<i class="fab fa-instagram"></i> 
+
