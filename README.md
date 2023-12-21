@@ -13,7 +13,8 @@ Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-38b3871a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guibragc?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr) 
 
-Tech Stack:
+## 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230076D6.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![API](https://img.shields.io/badge/API-%230085FF.svg?&style=for-the-badge&logo=Postman&logoColor=white)
