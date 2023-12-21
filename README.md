@@ -10,5 +10,6 @@ About me:
 <p>
 💬 Pergunte me sobre: Back-end -  java, sql, api
 <h1>
-🌐 Socials:
+🌐 Sociais:
 </h1>
+<i class="fab fa-instagram"></i> 
