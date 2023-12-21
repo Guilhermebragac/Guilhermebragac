@@ -9,6 +9,6 @@ About me:
 🌱 No momento estou aprendendo e estudando API
 <p>
 💬 Pergunte me sobre: Back-end -  java, sql, api
-<p>
+<h1>
 🌐 Socials:
-
+</h1>
