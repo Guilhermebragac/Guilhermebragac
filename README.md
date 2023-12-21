@@ -30,6 +30,5 @@ Redes Sociais:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilhermebragac&show_icons=true&theme=dark)
 
-Espero que goste! Sinta-se à vontade para me seguir e explorar meus projetos.
 
 
