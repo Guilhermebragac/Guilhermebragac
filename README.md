@@ -9,9 +9,9 @@ Sobre Mim:
 - 💬 Pergunte-me sobre: Back-end, Java, SQL, API.
 
 Redes Sociais:
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-38b3871a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guibragc?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-38b3871a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 ## Projetos:
